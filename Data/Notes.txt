@@ -1,0 +1,3 @@
+This is my text file.
+Yeah we start with plaintext, opening and reading, also writing, json, and csvs then we move to real data now. 
+We do one at a time if we start with plain text the untill i say done then we move to the next
