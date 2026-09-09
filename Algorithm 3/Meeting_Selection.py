@@ -3,8 +3,6 @@ def activity_selection1(start, finish):
     i = 0
     result.append(i)
 
-    
-
     for j in range(1, len(start)):
         if finish[i] <= start[j]:
             result.append(j)
